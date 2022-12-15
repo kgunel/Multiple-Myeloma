@@ -1,0 +1,240 @@
+
+Results for Trial Id : 1
+		MSE = 0.117284
+		R^2 = 0.530864
+		AUC = 0.265328
+		Accuracy = 0.882716
+		Sensitivity or Recall = 0.484848
+		Specificity = 0.984496
+		Precision = 0.888889
+		f1-score = 0.627451
+		Matthews correlation coefficient (MCC) = 0.601487
+		Jaccard index = 0.457143
+		Cohen's Kappa coefficient = 0.564885
+
+		Confusion Matrix
+			 16			 17
+
+			  2			127
+
+	Elapsed Time 198.455334 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 2
+		MSE = 0.119497
+		R^2 = 0.522013
+		AUC = 0.247294
+		Accuracy = 0.880503
+		Sensitivity or Recall = 0.529412
+		Specificity = 0.976000
+		Precision = 0.857143
+		f1-score = 0.654545
+		Matthews correlation coefficient (MCC) = 0.612055
+		Jaccard index = 0.486486
+		Cohen's Kappa coefficient = 0.587126
+
+		Confusion Matrix
+			 18			 16
+
+			  3			122
+
+	Elapsed Time 205.034512 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 3
+		MSE = 0.105590
+		R^2 = 0.577640
+		AUC = 0.223840
+		Accuracy = 0.894410
+		Sensitivity or Recall = 0.575758
+		Specificity = 0.976562
+		Precision = 0.863636
+		f1-score = 0.690909
+		Matthews correlation coefficient (MCC) = 0.649134
+		Jaccard index = 0.527778
+		Cohen's Kappa coefficient = 0.630285
+
+		Confusion Matrix
+			 19			 14
+
+			  3			125
+
+	Elapsed Time 229.982991 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 4
+		MSE = 0.109677
+		R^2 = 0.561290
+		AUC = 0.242505
+		Accuracy = 0.890323
+		Sensitivity or Recall = 0.531250
+		Specificity = 0.983740
+		Precision = 0.894737
+		f1-score = 0.666667
+		Matthews correlation coefficient (MCC) = 0.635594
+		Jaccard index = 0.500000
+		Cohen's Kappa coefficient = 0.606070
+
+		Confusion Matrix
+			 17			 15
+
+			  2			121
+
+	Elapsed Time 237.299413 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 5
+		MSE = 0.109677
+		R^2 = 0.561290
+		AUC = 0.235469
+		Accuracy = 0.890323
+		Sensitivity or Recall = 0.545455
+		Specificity = 0.983607
+		Precision = 0.900000
+		f1-score = 0.679245
+		Matthews correlation coefficient (MCC) = 0.646042
+		Jaccard index = 0.514286
+		Cohen's Kappa coefficient = 0.617839
+
+		Confusion Matrix
+			 18			 15
+
+			  2			120
+
+	Elapsed Time 219.513012 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 6
+		MSE = 0.111842
+		R^2 = 0.552632
+		AUC = 0.231250
+		Accuracy = 0.888158
+		Sensitivity or Recall = 0.562500
+		Specificity = 0.975000
+		Precision = 0.857143
+		f1-score = 0.679245
+		Matthews correlation coefficient (MCC) = 0.635037
+		Jaccard index = 0.514286
+		Cohen's Kappa coefficient = 0.615018
+
+		Confusion Matrix
+			 18			 14
+
+			  3			117
+
+	Elapsed Time 930.394633 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 7
+		MSE = 0.098039
+		R^2 = 0.607843
+		AUC = 0.205843
+		Accuracy = 0.901961
+		Sensitivity or Recall = 0.612903
+		Specificity = 0.975410
+		Precision = 0.863636
+		f1-score = 0.716981
+		Matthews correlation coefficient (MCC) = 0.673942
+		Jaccard index = 0.558824
+		Cohen's Kappa coefficient = 0.659748
+
+		Confusion Matrix
+			 19			 12
+
+			  3			119
+
+	Elapsed Time 229.088946 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 8
+		MSE = 0.109677
+		R^2 = 0.561290
+		AUC = 0.224416
+		Accuracy = 0.890323
+		Sensitivity or Recall = 0.575758
+		Specificity = 0.975410
+		Precision = 0.863636
+		f1-score = 0.690909
+		Matthews correlation coefficient (MCC) = 0.646522
+		Jaccard index = 0.527778
+		Cohen's Kappa coefficient = 0.627457
+
+		Confusion Matrix
+			 19			 14
+
+			  3			119
+
+	Elapsed Time 209.441020 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 9
+		MSE = 0.091503
+		R^2 = 0.633987
+		AUC = 0.161286
+		Accuracy = 0.908497
+		Sensitivity or Recall = 0.718750
+		Specificity = 0.958678
+		Precision = 0.821429
+		f1-score = 0.766667
+		Matthews correlation coefficient (MCC) = 0.712519
+		Jaccard index = 0.621622
+		Cohen's Kappa coefficient = 0.710070
+
+		Confusion Matrix
+			 23			  9
+
+			  5			116
+
+	Elapsed Time 253.199477 seconds
+----------------------------------------------------------------------
+
+Results for Trial Id : 10
+		MSE = 0.092105
+		R^2 = 0.631579
+		AUC = 0.189816
+		Accuracy = 0.907895
+		Sensitivity or Recall = 0.645161
+		Specificity = 0.975207
+		Precision = 0.869565
+		f1-score = 0.740741
+		Matthews correlation coefficient (MCC) = 0.697532
+		Jaccard index = 0.588235
+		Cohen's Kappa coefficient = 0.686228
+
+		Confusion Matrix
+			 20			 11
+
+			  3			118
+
+	Elapsed Time 173.890576 seconds
+----------------------------------------------------------------------
+
+Results for Best Solution :
+	MSE = 0.091503
+	R^2 = 0.633987
+	AUC = 0.161286
+	Accuracy = 0.908497
+	Sensitivity or Recall = 0.718750
+	Specificity = 0.958678
+	Precision = 0.821429
+	f1-score = 0.766667
+	Matthews correlation coefficient (MCC) = 0.712519
+	Jaccard index = 0.621622
+	Cohen's Kappa coefficient = 0.710070
+----------------------------------------------------------------------
+
+Average Results
+	Mean of MSEs = 0.106 ± 0.010
+	Mean of R^2s = 0.574 ± 0.039
+	Mean of AUCs = 0.223 ± 0.030
+	Mean of Accuracies = 0.894 ± 0.010
+	Mean of Sensitivities or Recalls = 0.578 ± 0.067
+	Mean of Specificitives = 0.976 ± 0.007
+	Mean of Precisions = 0.868 ± 0.023
+	Mean of f1-scores = 0.691 ± 0.041
+	Mean of  Matthews correlation coefficients (MCCs) = 0.651 ± 0.035
+	Mean of Jaccard indexes = 0.530 ± 0.049
+	Mean of Cohen's Kappa coefficients = 0.630 ± 0.044
+
+Mean of Elapsed Time : 288.630 ± 226.586 seconds
+----------------------------------------------------------------------
